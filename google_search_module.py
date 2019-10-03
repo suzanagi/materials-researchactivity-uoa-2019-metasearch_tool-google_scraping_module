@@ -1,5 +1,5 @@
 import sys
-import googler
+from . import googler
 from result_item import ResultItem
 
 def search(query):
