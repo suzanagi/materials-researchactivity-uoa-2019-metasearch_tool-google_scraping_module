@@ -4,5 +4,5 @@ We need to find the other way to scrape correctly.
 Also, still it's incomplete to be independent module... 
 Need to make a function combine the multiple query given.
 
-[ ] reimplement the search function
-[ ] implementation of the function combine multiple queries with "**+**"
+- [ ] reimplement the search function
+- [ ] implementation of the function combine multiple queries with "**+**"
